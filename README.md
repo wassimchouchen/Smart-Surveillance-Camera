@@ -12,4 +12,5 @@ Technologies:
 - Python
 - Web development
 - fire-base
-![plot](./C:\Users\LENOVO GAMING\Downloads\image.png)
+- 
+ ![plot](C:\Users\LENOVO GAMING\Downloads\image.png)
