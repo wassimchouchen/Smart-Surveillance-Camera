@@ -11,4 +11,4 @@ Technologies:
 - OpenCV
 - Python
 - Web development
-- fire-host
+- fire-base
